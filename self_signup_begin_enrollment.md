@@ -4,6 +4,6 @@ This is a sample page demonstrating how an organization may
 present a link to begin a self-signup with approval enrollment
 flow.
 
-[Click here to enroll in the Australian BioCommons Person Registry](https://registry-dev.biocommons.org.au/registry/co_petitions/start/coef:6)
+[Click here to enroll in the Australian BioCommons Person Registry](https://registry-test.biocommons.org.au/registry/co_petitions/start/coef:6)
 
 
